@@ -10,7 +10,7 @@ pip install selenium
 
 # installer Web driver 
 
-pour installer le web driver qui convient a votre navigateur , il faut utiliser  le lien suivant le lien suivent :
+pour installer le web driver qui convient a votre navigateur , il faut utiliser  le lien suivant :
 
 https://www.selenium.dev/documentation/fr/getting_started_with_webdriver/third_party_drivers_and_plugins/
 
